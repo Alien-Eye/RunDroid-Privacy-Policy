@@ -63,7 +63,7 @@ These third parties have access to your Personal Data only to perform these task
   - Unity Analytics collects data such as approximate Location, user’s personal identifiers, in-game Interactions and activity, Crash logs, app diagnostics, app performance data, and user’s device or other identifiers (Installation ID, IDFV, and IDFA).For App functionality and analytics purposes.
   - Data is encrypted in transit.
   - Data can be deleted. Visit the [Data Deletion website](https://google.com).
-  - For more information on the privacy practices of Unity Analytics, please visit the [Unity Privacy Policy website]((https://unity.com/legal/game-player-and-app-user-privacy-policy))
+  - For more information on the privacy practices of Unity Analytics, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
 
 - Google AdMob (Mobile Ads SDK)
@@ -71,13 +71,13 @@ These third parties have access to your Personal Data only to perform these task
   - AdMob collects IP address, user interactions, diagnostic information, and device and account identifiers for advertising, analytics, and fraud prevention purposes.
   - Data is encrypted in transit.
   - Data can be deleted. Visit the Data Deletion website.
-  - For more information on the privacy practices of Google AdMob, please visit the [Google Privacy Policy website](https://policies.google.com/privacy?hl=en).
+  - For more information on the privacy practices of Google AdMob, please visit the [Google Privacy Policy website](https://policies.google.com/privacy?hl=en)
 
 
 - Unity In-app Purchases (Unity IAP)
   - Unity IAP is a service that allows us to monetize our game through in-app Purchases in the form of in-game items that unlock additional features that players may like to purchase.
   - Unity IAP collects purchase history data for functionality purposes (Using Unity UGS Analytics).
-  - For more information on the privacy practices of Unity IAP, please visit the [Unity Privacy Policy website]((https://unity.com/legal/game-player-and-app-user-privacy-policy)).
+  - For more information on the privacy practices of Unity IAP, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
 
 - Unity UGS Authentication
@@ -101,7 +101,7 @@ These third parties have access to your Personal Data only to perform these task
   - Unity Cloud Save collects the user’s personal identifiers and the user’s device or other identifiers (Player ID). for app functionality.
   - Data is encrypted in transit.
   - Data can be deleted. Visit the Data Deletion website.
-  -For more information on the privacy practices of Unity UGS Cloud Save, please visit the [Unity Privacy Policy website]((https://unity.com/legal/game-player-and-app-user-privacy-policy)).
+  -For more information on the privacy practices of Unity UGS Cloud Save, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
 
 - Unity UGS Remote Config
@@ -109,7 +109,7 @@ These third parties have access to your Personal Data only to perform these task
   - Unity Remote Config collects approximate location, the user’s personal identifiers, and the user’s device or other identifiers for app functionality.
   - Data is encrypted in transit.
   - Remote Config does not store any of this data or share it with any other entity, it only uses it Ephemerally.
-  - For more information on the privacy practices of Unity UGS Remote Config, please visit the [Unity Privacy Policy website]((https://unity.com/legal/game-player-and-app-user-privacy-policy))
+  - For more information on the privacy practices of Unity UGS Remote Config, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
 
 # Links to Other Sites
