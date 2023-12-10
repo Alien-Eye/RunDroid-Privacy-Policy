@@ -64,7 +64,7 @@ a {
 .btn {
   display: inline-block;
   margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
   color: rgba(255, 255, 255, 0.7);
   background-color: rgba(255, 255, 255, 0.08);
   border-color: rgba(255, 255, 255, 0.2);
@@ -82,19 +82,21 @@ a {
   }
 
   + .btn {
-    margin-left: 5rem;
+    margin-left: 40rem;
   }
 
   @include large {
     font-size: 2rem;
     padding: 0.25rem 2.5rem;
+
+    margin-left: 40rem;
   }
 
   @include medium {
     font-size: 1.5rem;
     padding: 0.2rem 2rem;
 
-    margin-left: 3rem;
+    margin-left: 28rem;
     //margin-right: 3rem;
   }
 
@@ -104,13 +106,12 @@ a {
     //width: 100%;
     padding: 0.2rem 1rem;
 
-    margin-left: 1rem;
+    margin-left: 20rem;
    // margin-right: 1rem;
     
 
   }
 }
-
 
 .page-header {
   color: $header-heading-color;
