@@ -1,7 +1,7 @@
 @import "normalize";
 @import "rouge-github";
 @import "variables";
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@600&display=swap');
 
 @mixin large {
   @media screen and (min-width: #{$large-breakpoint}) {
@@ -28,7 +28,7 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Signika Negative', sans-serif;
   font-size: 16px;
   line-height: 1.5;
   color: $body-text-color;
@@ -86,9 +86,8 @@ a {
   }
 
   @include large {
-    margin-right:43rem;
-    font-size: 1.5rem;
-    padding: 0.2rem 2.5rem;
+    font-size: 2rem;
+    padding: 0.25rem 2.5rem;
   }
 
   @include medium {
@@ -114,7 +113,7 @@ a {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  background-image: linear-gradient(130deg, $header-bg-color-secondary, $header-bg-color);
 
   @include large {
     padding: 0.5rem 0rem;
