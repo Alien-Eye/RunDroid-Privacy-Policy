@@ -96,20 +96,14 @@ a {
     font-size: 1.5rem;
     padding: 0.2rem 2rem;
 
-    margin-left: 28rem;
-    //margin-right: 3rem;
+    margin-left: 24rem;
   }
 
   @include small {
     font-size: 1rem;
-    //display: block;
-    //width: 100%;
     padding: 0.2rem 1rem;
 
-    margin-left: 20rem;
-   // margin-right: 1rem;
-    
-
+    margin-left: 18rem;
   }
 }
 
