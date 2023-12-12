@@ -62,7 +62,7 @@ These third parties have access to your Personal Data only to perform these task
   - Unity Analytics is a tool that helps us understand player actions, game performance, and usage patterns within our game.
   - Unity Analytics collects data such as approximate Location, user’s personal identifiers, in-game Interactions and activity, Crash logs, app diagnostics, app performance data, and user’s device or other identifiers (Installation ID, IDFV, and IDFA).For App functionality and analytics purposes.
   - Data is encrypted in transit.
-  - Data can be deleted. Visit the [Data Deletion website](https://google.com).
+  - Data can be deleted. Visit the [Data Deletion website](https://alien-eye.github.io/RunDroid-Data-Deletion-Resource/).
   - For more information on the privacy practices of Unity Analytics, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
 
@@ -70,7 +70,7 @@ These third parties have access to your Personal Data only to perform these task
   - Google AdMob is a mobile advertising platform that allows us to monetize our game through in-game ads.
   - AdMob collects IP address, user interactions, diagnostic information, and device and account identifiers for advertising, analytics, and fraud prevention purposes.
   - Data is encrypted in transit.
-  - Data can be deleted. Visit the Data Deletion website.
+  - Data can be deleted. Visit the [Data Deletion website](https://alien-eye.github.io/RunDroid-Data-Deletion-Resource/).
   - For more information on the privacy practices of Google AdMob, please visit the [Google Privacy Policy website](https://policies.google.com/privacy?hl=en)
 
 
@@ -84,7 +84,7 @@ These third parties have access to your Personal Data only to perform these task
   - Unity Authentication is a service that helps us identify players, enabling us to provide services like Cloud Save and Remote Configurations.
   - Unity Authentication collects user’s personal identifiers for app functionality and account management.
   - Data is encrypted in transit.
-  - Player profile and its associated data can be deleted. Visit the Data Deletion website.
+  - Player profile and its associated data can be deleted. Visit the [Data Deletion website](https://alien-eye.github.io/RunDroid-Data-Deletion-Resource/).
   - For more information on the privacy practices of Unity Authentication, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
 
@@ -92,7 +92,7 @@ These third parties have access to your Personal Data only to perform these task
   - Google Play Games Services is a platform that provides a variety of game services, including player identity, We use it with Unity Authentication to authenticate players.
   - Google Play Games Services collects user’s personal identifiers, analytics data, and diagnostics data for app functionality, and analytics.
   - Data is encrypted in transit.
-  - Data can be deleted. Visit the Data Deletion website.
+  - Data can be deleted. Visit the [Data Deletion website](https://alien-eye.github.io/RunDroid-Data-Deletion-Resource/).
   -For more information on the privacy practices of Google Play Games Services, please visit the [Google Privacy Policy website](https://policies.google.com/privacy?hl=en)
 
 
@@ -100,7 +100,7 @@ These third parties have access to your Personal Data only to perform these task
   - Unity Cloud Save is a service that enhances the player experience by saving progress to the cloud, enabling cross-device gameplay.
   - Unity Cloud Save collects the user’s personal identifiers and the user’s device or other identifiers (Player ID). for app functionality.
   - Data is encrypted in transit.
-  - Data can be deleted. Visit the Data Deletion website.
+  - Data can be deleted. Visit the [Data Deletion website](https://alien-eye.github.io/RunDroid-Data-Deletion-Resource/).
   -For more information on the privacy practices of Unity UGS Cloud Save, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
 
