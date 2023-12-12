@@ -93,7 +93,7 @@ These third parties have access to your Personal Data only to perform these task
   - Google Play Games Services collects user’s personal identifiers, analytics data, and diagnostics data for app functionality, and analytics.
   - Data is encrypted in transit.
   - Data can be deleted. Visit the [Data Deletion website](https://alien-eye.github.io/RunDroid-Data-Deletion-Resource/).
-  -For more information on the privacy practices of Google Play Games Services, please visit the [Google Privacy Policy website](https://policies.google.com/privacy?hl=en)
+  - For more information on the privacy practices of Google Play Games Services, please visit the [Google Privacy Policy website](https://policies.google.com/privacy?hl=en)
 
 
 - ## Unity UGS Cloud Save
@@ -101,7 +101,7 @@ These third parties have access to your Personal Data only to perform these task
   - Unity Cloud Save collects the user’s personal identifiers and the user’s device or other identifiers (Player ID). for app functionality.
   - Data is encrypted in transit.
   - Data can be deleted. Visit the [Data Deletion website](https://alien-eye.github.io/RunDroid-Data-Deletion-Resource/).
-  -For more information on the privacy practices of Unity UGS Cloud Save, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
+  - For more information on the privacy practices of Unity UGS Cloud Save, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
 
 - ## Unity UGS Remote Config
