@@ -65,7 +65,7 @@ These third parties have access to your Personal Data only to perform these task
   - Data can be deleted. Visit the [Data Deletion website](https://alien-eye.github.io/RunDroid-Data-Deletion-Resource/).
   - For more information on the privacy practices of Unity Analytics, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
-
+##
 - ## Google AdMob (Mobile Ads SDK)
   - Google AdMob is a mobile advertising platform that allows us to monetize our game through in-game ads.
   - AdMob collects IP address, user interactions, diagnostic information, and device and account identifiers for advertising, analytics, and fraud prevention purposes.
@@ -73,13 +73,13 @@ These third parties have access to your Personal Data only to perform these task
   - Data can be deleted. Visit the [Data Deletion website](https://alien-eye.github.io/RunDroid-Data-Deletion-Resource/).
   - For more information on the privacy practices of Google AdMob, please visit the [Google Privacy Policy website](https://policies.google.com/privacy?hl=en)
 
-
+##
 - ## Unity In-app Purchases (Unity IAP)
   - Unity IAP is a service that allows us to monetize our game through in-app Purchases in the form of in-game items that unlock additional features that players may like to purchase.
   - Unity IAP collects purchase history data for functionality purposes (Using Unity UGS Analytics).
   - For more information on the privacy practices of Unity IAP, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
-
+##
 - ## Unity UGS Authentication
   - Unity Authentication is a service that helps us identify players, enabling us to provide services like Cloud Save and Remote Configurations.
   - Unity Authentication collects user’s personal identifiers for app functionality and account management.
@@ -87,7 +87,7 @@ These third parties have access to your Personal Data only to perform these task
   - Player profile and its associated data can be deleted. Visit the [Data Deletion website](https://alien-eye.github.io/RunDroid-Data-Deletion-Resource/).
   - For more information on the privacy practices of Unity Authentication, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
-
+## 
 - ## Google Play Games Services
   - Google Play Games Services is a platform that provides a variety of game services, including player identity, We use it with Unity Authentication to authenticate players.
   - Google Play Games Services collects user’s personal identifiers, analytics data, and diagnostics data for app functionality, and analytics.
@@ -95,7 +95,7 @@ These third parties have access to your Personal Data only to perform these task
   - Data can be deleted. Visit the [Data Deletion website](https://alien-eye.github.io/RunDroid-Data-Deletion-Resource/).
   - For more information on the privacy practices of Google Play Games Services, please visit the [Google Privacy Policy website](https://policies.google.com/privacy?hl=en)
 
-
+## 
 - ## Unity UGS Cloud Save
   - Unity Cloud Save is a service that enhances the player experience by saving progress to the cloud, enabling cross-device gameplay.
   - Unity Cloud Save collects the user’s personal identifiers and the user’s device or other identifiers (Player ID). for app functionality.
@@ -103,7 +103,7 @@ These third parties have access to your Personal Data only to perform these task
   - Data can be deleted. Visit the [Data Deletion website](https://alien-eye.github.io/RunDroid-Data-Deletion-Resource/).
   - For more information on the privacy practices of Unity UGS Cloud Save, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
-
+## 
 - ## Unity UGS Remote Config
   - Unity UGS Remote Config is a cloud service that allows us to tune and customize the game experience without requiring an update.
   - Unity Remote Config collects approximate location, the user’s personal identifiers, and the user’s device or other identifiers for app functionality.
@@ -111,7 +111,7 @@ These third parties have access to your Personal Data only to perform these task
   - Remote Config does not store any of this data or share it with any other entity, it only uses it Ephemerally.
   - For more information on the privacy practices of Unity UGS Remote Config, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
-
+## 
 - ## Unity UGS Cloud Diagnostics
   - Unity Cloud Diagnostics is a suite of cloud-enabled tools that helps collect and identify potential issues in Unity-built games by gathering crash and exception reports.
   - Unity Cloud Diagnostics collects data such as crash logs, app diagnostics, other app performance data, and user’s device or other identifiers (Installation ID, IDFV, and IDFA) for analytics purposes.
