@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Privacy Policy for RunDroid
-Last updated: [December 9, 2023]
+Last updated: [October 10, 2025]
 
 ### Alien Eye (“us”, “we”, or “our”) operates the RunDroid mobile application (the “Service”).
 
