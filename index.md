@@ -110,6 +110,14 @@ These third parties have access to your Personal Data only to perform these task
   - Data is encrypted in transit.
   - Remote Config does not store any of this data or share it with any other entity; it only uses it ephemerally.
   - For more information on the privacy practices of Unity UGS Remote Config, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
+    
+- ## Unity UGS Diagnostics
+  - Unity Diagnostics is a tool that helps us monitor and improve the stability, performance, and reliability of our game.
+  - Unity Diagnostics collects data such as device information, operating system details, hardware specifications, crash logs, exception reports, performance metrics, and app usage patterns. This information is used solely for app functionality, diagnostics, and performance monitoring purposes.
+  - Data is encrypted in transit.
+  - Collected data is anonymous and cannot be used to identify individual users.
+  - Data cannot be deleted once collected.
+  - For more information on the privacy practices of Unity Diagnostics, please visit the [Unity Privacy Policy website](https://unity.com/legal/game-player-and-app-user-privacy-policy)
 
 
 # Links to Other Sites
